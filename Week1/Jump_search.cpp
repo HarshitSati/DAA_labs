@@ -8,7 +8,7 @@
 using namespace std;
 int linearSearch(vector<int> &vrr, int start, int end, int key){ //end - i+ jump or start + jump
   while(start <= end){
-    //cout<<" ok "<<vrr[start]<<" ok";
+    //cout<<" "<<vrr[start]<<" ";
     if(vrr[start] == key) return start;
     start++;
   }
