@@ -1,4 +1,4 @@
-//time complexity of bin search O(logn)
+//time complexity of bin search O(n/jump + line_search O(jump))
 // t -> test case
 //n -> length of array
 //
