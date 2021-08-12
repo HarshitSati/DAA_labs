@@ -1,3 +1,2 @@
 # DAA_labs
-PCS 505
-Implementation of various Algorithms.
+PCS 505 and Implementation of various Algorithms.
